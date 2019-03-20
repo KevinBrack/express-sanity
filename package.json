@@ -1,0 +1,22 @@
+{
+  "name": "express-sanity",
+  "version": "1.0.0",
+  "description": "Testing simple NODE backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinBrack/express-sanity.git"
+  },
+  "author": "Kevin Brack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevinBrack/express-sanity/issues"
+  },
+  "homepage": "https://github.com/KevinBrack/express-sanity#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
